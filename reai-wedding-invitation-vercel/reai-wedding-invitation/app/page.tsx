@@ -40,7 +40,7 @@ const invitationCopy: Record<Language, InvitationLine[]> = {
     { text: "鞠躬", kind: "bow" },
     { text: "", kind: "space" },
     { text: "時：十月二十三日下午五時", kind: "detail" },
-    { text: "址：Ci Siamo, New York.", kind: "detail" },
+    { text: "址：Il Gattopardo, New York.", kind: "detail" },
   ],
   en: [
     { text: "TONIGHT", kind: "title" },
@@ -73,8 +73,8 @@ const invitationCopy: Record<Language, InvitationLine[]> = {
     { text: "Yuxuan & Xinyi", kind: "name" },
     { text: "", kind: "space" },
     { text: "6:00 pm, OCT 23, 2026", kind: "detail" },
-    { text: "ci siamo, 440 West 33rd Street,", kind: "detail" },
-    { text: "Suite 100, New York, NY 10001", kind: "detail" },
+    { text: "Il Gattopardo, 13-15 W 54th St,", kind: "detail" },
+    { text: "New York, NY 10019.", kind: "detail" },
   ],
 };
 
